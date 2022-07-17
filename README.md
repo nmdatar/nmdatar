@@ -1,4 +1,15 @@
 
-# Welcome to my github!
+# Welcome!
 
-Hi :wave: , my name is **Nikhil Datar**, and I'm a <span style="color:crimson">CS student at Harvard</span> interested in AI/ML applications in healthcare/finance, web3, and crypto. Feel free to checkout my projects to learn more! 
+Hi :wave: , I'm **Nikhil Datar**.
+
+Currently, I'm 
+
+* :tea: vibing @harvard
+* :brain: working on chest x-ray interpretation using deep learning
+* :electron: learning the MERN stack and solidity dev
+* :speech_balloon: talking to cool people building cool things
+* :chess_pawn: playing chess for fun
+
+Reach out @ndatar@college.harvard.edu if you wanna be friends :)
+
