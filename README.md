@@ -7,7 +7,7 @@ Currently, I'm
 
 * :tea: vibing @harvard
 * :brain: working on chest x-ray interpretation using deep learning
-* :electron: learning the MERN stack and solidity dev
+* :electron: learning the MERN stack
 * :speech_balloon: talking to cool people building cool things
 * :chess_pawn: playing chess for fun
 
