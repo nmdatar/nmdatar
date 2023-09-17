@@ -6,7 +6,6 @@ Hi :wave: , I'm **Nikhil Datar**.
 Currently, I'm 
 
 * :tea: vibing @harvard
-* :electron: learning the MERN stack
 * :speech_balloon: talking to cool people building cool things
 * :chess_pawn: playing chess for fun
 
